@@ -68,6 +68,12 @@
         display: none;
     }
 
+    .cabecalho-lista {
+    font-size: 16px;
+    gap: 8px;
+   margin: 0;
+}
+
     .cabecalho-lista__item-botao {
         display: block;
     }
